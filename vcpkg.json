@@ -1,0 +1,10 @@
+{
+  "name": "vk-cross-platform-default",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "vulkan",
+    "vulkan-validationlayers",
+    "shaderc",
+    { "name": "libxcb", "platform": "linux" }
+  ]
+}
